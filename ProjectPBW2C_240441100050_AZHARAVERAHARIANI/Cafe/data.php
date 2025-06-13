@@ -1,0 +1,28 @@
+<?php
+$menu = [
+  ["id"=>1, "name"=>"Nasi Pecel", "price"=>20000, "stock"=>25, "category"=>"Makanan Berat"],
+  ["id"=>2, "name"=>"Nasi Goreng", "price"=>15000, "stock"=>30, "category"=>"Makanan Berat"],
+  ["id"=>3, "name"=>"Soto Ayam", "price"=>20000, "stock"=>22, "category"=>"Makanan Berat"],
+  ["id"=>4, "name"=>"Chicken Katsu", "price"=>25000, "stock"=>18, "category"=>"Makanan Berat"],
+  ["id"=>5, "name"=>"Seblak Pedas", "price"=>22000, "stock"=>16, "category"=>"Makanan Berat"],
+  ["id"=>6, "name"=>"Mie Goreng", "price"=>25000, "stock"=>20, "category"=>"Makanan Berat"],
+  ["id"=>7, "name"=>"Sate Ayam", "price"=>20000, "stock"=>21, "category"=>"Makanan Berat"],
+  ["id"=>8, "name"=>"Bakso", "price"=>16000, "stock"=>19, "category"=>"Makanan Berat"],
+  ["id"=>9, "name"=>"Kentang Goreng", "price"=>10000, "stock"=>27, "category"=>"Camilan"],
+  ["id"=>10, "name"=>"Roti Bakar", "price"=>10000, "stock"=>17, "category"=>"Camilan"],
+  ["id"=>11, "name"=>"Tahu Gejrot", "price"=>10000, "stock"=>23, "category"=>"Camilan"],
+  ["id"=>12, "name"=>"Pisang Lumer", "price"=>12000, "stock"=>20, "category"=>"Camilan"],
+  ["id"=>13, "name"=>"Sosis Solo", "price"=>12000, "stock"=>24, "category"=>"Camilan"],
+  ["id"=>14, "name"=>"Kebab", "price"=>15000, "stock"=>19, "category"=>"Camilan"],
+  ["id"=>15, "name"=>"Churos", "price"=>10000, "stock"=>22, "category"=>"Camilan"],
+  ["id"=>16, "name"=>"Jasuke", "price"=>10000, "stock"=>21, "category"=>"Camilan"],
+  ["id"=>17, "name"=>"Air Mineral", "price"=>8000, "stock"=>30, "category"=>"Minuman"],
+  ["id"=>18, "name"=>"Es Teh", "price"=>8000, "stock"=>30, "category"=>"Minuman"],
+  ["id"=>19, "name"=>"Es Jeruk", "price"=>10000, "stock"=>25, "category"=>"Minuman"],
+  ["id"=>20, "name"=>"Es Leci Tea", "price"=>15000, "stock"=>26, "category"=>"Minuman"],
+  ["id"=>21, "name"=>"Red Velvet", "price"=>15000, "stock"=>18, "category"=>"Minuman"],
+  ["id"=>22, "name"=>"Es Thai Tea", "price"=>13000, "stock"=>20, "category"=>"Minuman"],
+  ["id"=>23, "name"=>"Matcha Latte", "price"=>15000, "stock"=>17, "category"=>"Minuman"],
+  ["id"=>24, "name"=>"Hot Coffee", "price"=>12000, "stock"=>14, "category"=>"Minuman"],
+];
+?>
